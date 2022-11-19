@@ -12,7 +12,7 @@ cleaning, After party & event cleaning, and Pest control Service.
 Reliable full-time, part-time maid, babysitter, and home patient care service also
 available here.
 
-#Activities:
+# Accomplishments:
 *   Identifying the number and information of cleaners, keeping the
 necessary information of maids and get notified quickly if there is
 any problem.
