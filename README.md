@@ -27,5 +27,5 @@ whose services are still not completed. So proper steps can be taken.
  * Current Date & Time:  Anyone can see the current date and time while running the project.
 
 # ER Diagram 
-![diagram](ERD.PNG)
+![ER diagram](ERD.png)
 
